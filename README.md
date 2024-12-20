@@ -7,7 +7,6 @@ Full Stack Developer
 As a Full Stack Developer, I build complete web applications from front-end to back-end. I craft engaging user interfaces with HTML, CSS, and JavaScript, and develop robust server-side solutions using languages like Node.js, Python, or Java. My experience includes managing databases, deploying applications, and implementing CI/CD practices. Passionate about problem-solving and continuous learning, I create efficient, end-to-end solutions that meet user and business needs.
 
 <p align="left">
-<a href="https://www.upwork.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/upwork.svg" width="36" height="36" alt="Upwork" /></a>
 </p>
 
 * 🌍  I'm based in Vancouver
@@ -33,7 +32,6 @@ As a Full Stack Developer, I build complete web applications from front-end to b
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/pedrofacanha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pedro-facanha-845352a4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.upwork.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/upwork.svg" width="32" height="32" alt="Upwork" /></a>
 </p>
 
 ### Badges
