@@ -10,7 +10,7 @@ As a Full Stack Developer, I build complete web applications from front-end to b
 </p>
 
 * 🌍  I'm based in Vancouver
-* ✉️  You can contact me at [pedruluizmf@gmail.com](mailto:pedruluizmf@gmail.com)
+* ✉️  You can contact me at [pfacanha.dev@gmail.com](mailto:pedruluizmf@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 
